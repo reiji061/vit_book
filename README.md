@@ -2,7 +2,16 @@
 ※ **これはVisionTransformer入門に関する勉強用メモ・レポジトリです。**
 
 
+VisionTransformer 構造のメモ
+
+```Termial
+.memo
+```
+
+
+
 ### Vision Transformer 入門
+---
 
 #### 概要
 このリポジトリは書籍「Vision Transoformer入門」のサンプルコード、および補足情報をまとめています。
